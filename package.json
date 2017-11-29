@@ -8,10 +8,11 @@
     "react-dom": "^16.1.1"
   },
   "devDependencies": {
-    "@storybook/react": "^3.2.16",
-    "react-scripts": "1.0.17",
     "@storybook/addon-actions": "^3.2.16",
-    "@storybook/addon-links": "^3.2.16"
+    "@storybook/addon-knobs": "^3.2.16",
+    "@storybook/addon-links": "^3.2.16",
+    "@storybook/react": "^3.2.16",
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
